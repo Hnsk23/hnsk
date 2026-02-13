@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `HANSA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await hansa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://https://github.com/nirmanh12/HANSA-MD/blob/main/images/HANSA%20md.jpg?raw=true` },
+        image: { url: `https://github.com/Hnsk23/hnsk/blob/main/images/HANSA%20md.png?raw=true` },
         caption: up
       });
 
