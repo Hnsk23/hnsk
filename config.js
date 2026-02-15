@@ -9,8 +9,6 @@ SESSION_ID: process.env.SESSION_ID || "mFlRSJyI#viqLtRGdj16bVX06oEqggY8Gd01gvpc2
 ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Hnsk23/hnsk/blob/main/images/HANSA%20md.png?raw=true",
 ALIVE_MSG: process.env.ALIVE_MSG || "*Hello👋 HANSA-MD Is Alive Now😍*",
 BOT_OWNER: '94768546691',  // Replace with the owner's phone number
-AUTO_STATUS_SEEN: 'false',
-AUTO_STATUS_REACT: 'true',    
 
 
 
